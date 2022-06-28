@@ -31,3 +31,5 @@
 * *git merge branch_name* - команда, осуществляющая слияние текущей ветки с branch_name;
 
 ## Базовые термины третьего семинара
+
+* *git branch -m master main* - команда, меняющая название ветки master на main;
