@@ -33,3 +33,4 @@
 ## Базовые термины третьего семинара
 
 * *git branch -m master main* - команда, меняющая название ветки master на main;
+* *git checkout branch_name* - команда, осуществляющая переход на ветку branch_name;
